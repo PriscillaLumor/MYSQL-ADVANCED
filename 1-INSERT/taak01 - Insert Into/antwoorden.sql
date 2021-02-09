@@ -1,1 +1,6 @@
-
+INSERT INTO `studenten`(`student_id`,`voornaam`, `achternaam`, `klas`, `adres`, `postcode`, `geboortedatum`, `woonplaats`) VALUES (5,'Priscilla','Lumor','9D','Holendrecht 37','1107HR',1999-10-10,'Amsterdam');
+INSERT INTO `studenten`(`student_id`,'voornaam', `achternaam`, `klas`, `adres`, `postcode`, `geboortedatum`, `woonplaats`) VALUES (6,'Patricia','Andoh','9C','Amstelveen 17','1107HR',1998-11-20,'Amstelveen');
+INSERT INTO `studenten`(`student_id`, `voornaam`, `achternaam`, `klas`, `adres`, `postcode`, `geboortedatum`, `woonplaats`) VALUES (7,'Paulina','Wind','9A','Opheusdenhof 21','1107HR',1997-09-18,'Amsterdam');
+INSERT INTO `studenten`(`student_id`, `voornaam`, `achternaam`, `klas`, `adres`, `postcode`, `geboortedatum`, `woonplaats`) VALUES (8,'Patrick','Sind','9B','Holendrecht 105','1102HR',1996-06-16,'Amsterdam');
+INSERT INTO `studenten`(`student_id`, `voornaam`, `achternaam`, `klas`, `adres`, `postcode`, `geboortedatum`, `woonplaats`) VALUES (9,'Anna','Diego','9C','Reigersboos 70','1101RP',1995-04-10,'Amsterdam');
+INSERT INTO `studenten`(`student_id`, `voornaam`, `achternaam`, `klas`, `adres`, `postcode`, `geboortedatum`, `woonplaats`) VALUES (10,'Peter','Piet','9D','Bijlmerdreef 37','1102HR',2001-03-02,'Amsterdam')

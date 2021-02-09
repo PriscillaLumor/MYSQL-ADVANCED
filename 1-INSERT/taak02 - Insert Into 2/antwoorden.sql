@@ -1,1 +1,3 @@
-
+INSERT INTO `studenten`(`student_id`, `voornaam`, `achternaam`, `klas`, `adres`, `postcode`, `geboortedatum`, `woonplaats`) VALUES (11,'Mohammed','Al Shahara','','','','','Amsterdam');
+INSERT INTO `studenten`(`student_id`, `voornaam`, `achternaam`, `klas`, `adres`, `postcode`, `geboortedatum`, `woonplaats`) VALUES (12,'Elseba','Shino','','','','','Amstelveen');
+INSERT INTO `studenten`(`student_id`, `voornaam`, `achternaam`, `klas`, `adres`, `postcode`, `geboortedatum`, `woonplaats`) VALUES (13,'Lina','Peto','','','','','Amstelveen')
